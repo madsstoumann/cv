@@ -12,6 +12,11 @@ body {
 a { color: inherit; }
 h1 { font-size: 3em; }
 h1, h3 { margin: 0; }
+hr {
+	border: none;
+	border-block-end: 1px solid GrayText;
+	width: 100%;
+}
 img {
 	border-radius: 50%;
 	border: 1px solid GrayText;
