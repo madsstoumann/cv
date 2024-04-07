@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	 <circle cx="50" cy="50" r="50" fill="hsl(203, 87%, 34%)" />
+	 <circle cx="50" cy="50" r="45" fill="hsl(202, 83%, 41%)" />
+	 <circle cx="50" cy="50" r="40" fill="hsl(201, 79%, 46%)" />
+	 <circle cx="50" cy="50" r="35" fill="hsl(199, 86%, 55%)" />
+	 <circle cx="50" cy="50" r="30" fill="hsl(197, 92%, 61%)" />
+	 <circle cx="50" cy="50" r="25" fill="hsl(195, 94%, 67%)" />
+	 <circle cx="50" cy="50" r="20" fill="hsl(196, 97%, 75%)" />
+	 <circle cx="50" cy="50" r="15" fill="hsl(196, 100%, 85%)" />
+	 <circle cx="50" cy="50" r="10" fill="hsl(196, 100%, 95%)" />
+</svg>
