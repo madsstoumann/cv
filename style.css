@@ -7,7 +7,9 @@ body {
 	font-weight: normal;
 	justify-content: center;
 	line-height: 1.5;
-	margin-inline: 2ch;
+	margin-inline: auto;
+	max-inline-size: 70ch;
+	padding-inline: 2ch;
 }
 a { color: inherit; }
 h1 { font-size: 3em; }
