@@ -12,7 +12,10 @@ body {
 	padding-inline: 2ch;
 }
 a { color: inherit; }
-h1 { font-size: 3em; }
+h1 { 
+	font-size: 3em;
+	line-height: 1.1;
+}
 h1, h3 { margin: 0; }
 hr {
 	border: none;
